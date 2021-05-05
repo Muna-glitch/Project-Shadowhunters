@@ -1,0 +1,79 @@
+.emText{
+    display: none;
+}
+.firstEmma{
+    display: none;
+}
+.julianText{
+    display: none;
+}
+.secondJulian{
+    display: none;
+}
+.lottieText{
+    display: none;
+}
+.thirdLottie{
+    display: none;
+}
+.jaceText{
+    display: none;
+}
+.fourthJace{
+    display: none;
+}
+.reset {
+    display: none;
+}
+
+p {
+    color: white;
+}
+
+h1 {
+    font-family: 'Bangers', cursive;
+    text-align: center;
+    color: white;
+}
+
+.intro {
+    color: white;
+}
+
+.emma {
+    width: 200px;
+}
+
+.jace {
+    width: 200px;
+}
+
+.julian {
+    width: 200px;
+}
+
+.lottie {
+    width: 200px;
+}
+
+body {
+    background-image: url('https://img.theculturetrip.com/1440x807/smart/wp-content/uploads/2017/06/books-.gif');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
+
+.pics {
+    border: dotted white;
+    display: flex;
+    justify-content: space-around;
+    padding: 5px;
+    margin: 1px;
+}
+
+.buttonContainer {
+    display: flex;
+    justify-content: space-between;
+    padding: 20px;
+    margin: 10px;
+}
